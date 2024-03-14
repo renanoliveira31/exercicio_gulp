@@ -1,2 +1,3 @@
-build
 node_modules
+
+#coloquei este comentário aqui só para que a pasta build aparecesse para você
